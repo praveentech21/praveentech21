@@ -14,8 +14,8 @@
 
 - My Current Status :
 
-- [![praveentech21's GitHub | Stats](https://stats.quine.sh/praveentech21/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)
- [![praveentech21's GitHub | Dependencies](https://stats.quine.sh/praveentech21/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)
+[![MY GitHub | Stats](https://stats.quine.sh/praveentech21/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)
+ [![MY GitHub | Dependencies](https://stats.quine.sh/praveentech21/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)[![MY GitHub | Languages Over Time](https://stats.quine.sh/praveentech21/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)
 
 
 <!-- ### Blogs posts -->
