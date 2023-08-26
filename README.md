@@ -1,25 +1,28 @@
- Hi there 👋
-
- <h1 align="center"><b>Hi 👋, I'm Pranav Teja</b></h1>
+ <h1 align="center"><b>Hi 👋, I'm Sai Praveen</b></h1>
 <h3 align="center"><b>Full Stack Developer</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtej&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtej" /> </p>
 
-- 🔭 I’m currently working on **React Native Application**
+- 🔭 I’m currently working on **PHP**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **full stack development**
 
-- 📫 You can contact me at **pranav_mcr@srkrec.edu.in**
+- 📫 You can contact me at **praveen21.tech@gmail.com**
 
-- 📄 Know about my experiences [Resume](http://pranavteja.tech/files/PranavTejaResume.pdf)
+- 📄 Know about my experiences [Resume](http://saipraveen.free.nf/Bhavani/Shiva/SaiPraveenResume.pdf)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Connecting to Database with PHP](https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b?source=rss-a48c882c18c------2)
+- My Current Status :
+
+- [![praveentech21's GitHub | Stats](https://stats.quine.sh/praveentech21/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)
+ [![praveentech21's GitHub | Dependencies](https://stats.quine.sh/praveentech21/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=praveentech21)
+
+
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START --><!--
+- [Connecting to Database with PHP](https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b?source=rss-a48c882c18c------2) -->
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/impranavteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="impranavteja" height="30" width="40" /></a>
@@ -37,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavtej&show_icons=true&locale=en" alt="pranavtej" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavtej&" alt="pranavtej" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavtej&" alt="pranavtej" /></p>-->
 
 <!--
 **praveentech21/praveentech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
